@@ -4,6 +4,7 @@ Salience Strategy is a search and AI visibility agency for B2B companies that se
 
 [`salience-baseline`](https://github.com/Salience-Strategy/salience-baseline) holds the script we run before the work starts: it asks a company's buyer questions in four AI engines and Google and counts the answers that name the company (MIT).
 
+- Questions about the script: [salience-baseline discussions](https://github.com/Salience-Strategy/salience-baseline/discussions)
 - Site: [saliencestrategy.com](https://saliencestrategy.com/)
 - Pricing: [saliencestrategy.com/pricing](https://saliencestrategy.com/pricing)
 - About: [saliencestrategy.com/about](https://saliencestrategy.com/about)
